@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiy:war">
+    <output-path>$PROJECT_DIR$/../shiy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>shiy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="test.war">
+      <element id="artifact" artifact-name="shiy:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/20200425/20200425.iml" filepath="$PROJECT_DIR$/20200425/20200425.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200425/java ee/java ee.iml" filepath="$PROJECT_DIR$/20200425/java ee/java ee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200425/maven-test/maven-test.iml" filepath="$PROJECT_DIR$/20200425/maven-test/maven-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ser/ser.iml" filepath="$PROJECT_DIR$/../ser/ser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200425/servet-bloge/servet-bloge.iml" filepath="$PROJECT_DIR$/20200425/servet-bloge/servet-bloge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20200425/servet1-bloge1/servet-bloge1.iml" filepath="$PROJECT_DIR$/20200425/servet1-bloge1/servet-bloge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shiy/shiy.iml" filepath="$PROJECT_DIR$/../shiy/shiy.iml" />
+    </modules>
+  </component>
+</project>
